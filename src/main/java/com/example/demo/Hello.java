@@ -17,6 +17,6 @@ public class Hello {
 
     @RequestMapping("hello")
     public String Hello() {
-        return "hello kitty";
+        return "hello";
     }
 }
